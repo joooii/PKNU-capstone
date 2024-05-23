@@ -49,15 +49,15 @@ export default {
 <style scoped>
 @font-face {
   font-family: 'Bold';
-  src :url("C:\Users\Boss\workspace\table-status-app\public\fonts\GmarketSansTTFBold.ttf") ;
+  src :url("../../public/fonts/GmarketSansTTFBold.ttf") ;
 }
 @font-face {
   font-family: 'Light';
-  src: url("C:\Users\Boss\workspace\table-status-app\public\fonts\GmarketSansTTFLight.ttf");
+  src: url("../../public/fonts/GmarketSansTTFLight.ttf");
 }
 @font-face {
   font-family: 'Midium';
-  src: url("C:\Users\Boss\workspace\table-status-app\public\fonts\GmarketSansTTFMedium.ttf");
+  src: url("../../public/fonts/GmarketSansTTFMedium.ttf");
 }
 main {
   display: flex;
